@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgba(201, 132, 241, 0.76);
+}
+
+.quem-somos {
+    background-color: rgb(176, 6, 199);
+    color:aliceblue;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: blueviolet;
+}
+
+.foto {
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.479);
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
